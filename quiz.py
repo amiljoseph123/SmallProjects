@@ -33,6 +33,7 @@ questions = [
         "options": ["A. Harper Lee", "B. Mark Twain", "C. J.K. Rowling", "D. Ernest Hemingway"],
         "answer": "A"
     }
+
 ]
 
 # Run the quiz
